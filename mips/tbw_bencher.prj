@@ -1,0 +1,5 @@
+vhdl work "ROM32x32.vhd"
+vhdl work "ProgCnt.vhd"
+vhdl work "PC_Update.vhd"
+vhdl work "MUX2V5.vhd"
+vhdl work "mips.vhf"

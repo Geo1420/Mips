@@ -1,0 +1,15 @@
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "D:/S.O.C/mips/mips.sch" mips.vhf
+xst -ise "D:/S.O.C/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "D:/S.O.C/mips/mips.sch" mips.vhf
+xst -ise "D:/S.O.C/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "D:/S.O.C/mips/mips.sch" mips.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "D:/S.O.C/mips/mips.sch" mips.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "D:/S.O.C/mips/mips.sch" mips.vhf
+xst -ise "D:/S.O.C/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "D:/S.O.C/mips/mips.sch" mips.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "D:/S.O.C/mips/mips.sch" mips.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "D:/S.O.C/mips/mips.sch" mips.vhf
+xst -ise "D:/S.O.C/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+xst -ise "D:/S.O.C/mips/mips.ise" -intstyle ise -ifn mips.xst -ofn mips.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "D:/S.O.C/mips/mips.sch" mips.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "D:/S.O.C/mips/mips.sch" mips.vhf
